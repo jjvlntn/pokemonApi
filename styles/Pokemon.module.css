@@ -1,0 +1,13 @@
+.pokemonInfoContainer {
+    width: 70vh;
+    margin: 0 auto;
+    min-height: 100vh;
+}
+
+.pokemonImage {
+    position: relative;
+    width: 30vw;
+    height: 30vw;
+
+
+}
